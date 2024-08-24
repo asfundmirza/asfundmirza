@@ -49,10 +49,12 @@
   </div>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=asfundmirza&show_icons=true&locale=en&theme=dark" alt="asfundmirza" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asfundmirza&show_icons=true&locale=en&theme=dark" alt="asfundmirza" style="width: 45%; max-width: 300px;" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asfundmirza&theme=dark" alt="asfundmirza" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asfundmirza&theme=dark" alt="asfundmirza" style="width: 45%; max-width: 300px;" />
+
 </div>
+
 
 
 
