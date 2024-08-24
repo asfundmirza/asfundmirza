@@ -49,9 +49,9 @@
   </div>
 <div style="display: flex; justify-content: center; align-items: center;  gap: 2px; margin-top: 20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=asfundmirza&show_icons=true&locale=en&theme=dark" alt="asfundmirza" style="display:flex; " />
+  <img src="https://github-readme-stats.vercel.app/api?username=asfundmirza&show_icons=true&locale=en&theme=dark" alt="asfundmirza" style="width:45%; " />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asfundmirza&theme=dark" alt="asfundmirza" style="display:flex; " />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asfundmirza&theme=dark" alt="asfundmirza" style="width:48%; " />
 
 </div>
 
