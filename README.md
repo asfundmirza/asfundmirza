@@ -47,11 +47,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asfundmirza&show_icons=true&locale=en&layout=compact&theme=dark" alt="asfundmirza" />
   </div>
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+<div style="display: flex; justify-content: center; align-items: center;  gap: 2px; margin-top: 20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=asfundmirza&show_icons=true&locale=en&theme=dark" alt="asfundmirza" style="flex: 1; width:auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asfundmirza&show_icons=true&locale=en&theme=dark" alt="asfundmirza" style="display:flex; " />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asfundmirza&theme=dark" alt="asfundmirza" style="flex: 1; width:auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asfundmirza&theme=dark" alt="asfundmirza" style="display:flex; " />
 
 </div>
 
