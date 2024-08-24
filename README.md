@@ -1,9 +1,10 @@
 ![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 <h1 align="center">Hi 👋, I'm Asfand Jameel</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=asfundmirza&label=Profile%20views&color=0e75b6&style=flat" alt="asfundmirza" /> </p>
 <div align="center">
   <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-</div><p align="center"> <img src="https://komarev.com/ghpvc/?username=asfundmirza&label=Profile%20views&color=0e75b6&style=flat" alt="asfundmirza" /> </p>
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asfundmirza" alt="asfundmirza" /></a> </p>
 
