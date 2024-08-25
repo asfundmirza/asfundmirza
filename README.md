@@ -44,14 +44,12 @@
 
 <!-- Adding a clear div to ensure elements below are on a new line -->
 <div style="clear: both;"></div>
-<div align="center">
+
+<div align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asfundmirza&show_icons=true&locale=en&layout=compact&theme=dark" alt="asfundmirza" />
-  </div>
-<div style="display: flex; justify-content: center; align-items: center;  gap: 2px; margin-top: 20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=asfundmirza&show_icons=true&locale=en&theme=dark" alt="asfundmirza" style="width:45%; " />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asfundmirza&theme=dark" alt="asfundmirza" style="width:48%; " />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asfundmirza&theme=dark" alt="asfundmirza" height="165px"  />
 
 </div>
 
